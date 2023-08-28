@@ -6,11 +6,13 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactLogo" style="height:50px;">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scssLogo" style="height:50px;">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="cssLogo" style="height:50px;">
+    <img src="https://github.com/Im-Rises/space-invaders-arcade-emulator-website/assets/59691442/af0add7c-bec1-4ddb-806b-848fa7d316de" alt="cssLogo" style="height:50px;">
 </p>
 
 ## Description
 
-This is a simple web demo of the `video-stream-ascii` package that converts an input video into ASCII
+This is a build version for desktop of the web demo of `video-stream-ascii` package that stream an input video into
+ASCII
 art.
 
 ## 🚀🚀 [You can try it out](https://im-rises.github.io/video-stream-ascii-player/) 🚀🚀
@@ -29,6 +31,14 @@ You can find the package's source code on [GitHub](https://github.com/Im-Rises/v
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/59691442/209728294-e10691da-eb4f-43e6-880c-522417da79c6.png" alt="screenshot" style="width: 100%;">
+
+## Installation
+
+The build are available for Windows, Linux and macOS. Click on the link to download the executable below.
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/releases/latest)  
+[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/releases/latest)  
+[![macOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/releases/latest)
 
 ## Dependencies
 
