@@ -1,5 +1,5 @@
+/* eslint-disable react/react-in-jsx-scope */
 import './App.scss';
-import React from 'react';
 import {VideoAsciiPanel} from './components/VideoAsciiPanel';
 
 const App = () => (
