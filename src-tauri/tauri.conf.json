@@ -37,7 +37,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "video-stream-ascii-player-tauri",
+        "title": "Video Stream Ascii Player",
         "width": 800,
         "height": 600
       }
