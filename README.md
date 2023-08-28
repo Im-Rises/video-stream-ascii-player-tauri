@@ -51,17 +51,19 @@ It uses the react-webcam library to get the video stream from the webcam.
 
 ## GitHub Actions
 
-[![pages-build-deployment](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/pages/pages-build-deployment)
-[![Node.js CI](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/node.js.yml)
-[![ESLint](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/eslint.yml/badge.svg?branch=main)](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/eslint.yml)
-[![CodeQL](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/Im-Rises/video-stream-ascii-player/actions/workflows/codeql.yml)
+[![Node.js CI](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/node.js.yml/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/node.js.yml)
+[![ESLint](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/eslint.yml/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/eslint.yml)
+[![CodeQL](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/codeql.yml/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/codeql.yml)
+[![Tauri](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/tauri.yml/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/tauri.yml)
+[![tauri publish](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/tauri-publish.yml/badge.svg)](https://github.com/Im-Rises/video-stream-ascii-player-tauri/actions/workflows/tauri-publish.yml)
 
 The project is set up to run the following actions:
 
-- pages-build-deployment : Builds the website and deploys it to GitHub Pages.
 - node.js.yml : Runs the tests for the Node.js project.
 - eslint.yml : Runs the ESLint linter on the project.
 - codeql.yml : Runs the CodeQL linter on the project.
+- tauri.yml : Runs the Tauri build for the project.
+- tauri-publish.yml : Publish the Tauri build for the project.
 
 ## Documentations
 
